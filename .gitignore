@@ -55,3 +55,7 @@ trace.json
 /test/results.xml
 coverage.xml
 **/tests/**/expectations
+key.pem
+cert.pem
+myenv/
+shutdown_investigate.log
